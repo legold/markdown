@@ -5,8 +5,8 @@
 该文件用来测试和战士书写README的各种markdown语法。Github的markdown语法在标准的markdown语法基础上做了扩充，称之为`Github Flavored Markdown`。简称`GFM`，GFM在Github上有广泛应用，撤了README文件外，issues和wiki均支持markdown语法。
 
 ****
-###    Author:just磊哥
-###    email:legold520@163.com
+###                       Author:just磊哥
+###                      email:legold520@163.com
 
 ================================
 
